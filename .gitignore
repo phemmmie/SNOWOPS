@@ -1,0 +1,3 @@
+logs/
+config/secrets/
+jenkins/snowsql.config

@@ -1,0 +1,7 @@
+snowflake:
+  account: "wxemsbb-fb26581"
+  user: "WALE2688"
+  role: "ACCOUNTADMIN"
+  warehouse: "COMPUTE_WH"
+  database: "ecomm"
+  schema: "Customer_profile"
