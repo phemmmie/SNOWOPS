@@ -17,3 +17,5 @@ This project creates and populates a `customers` table in Snowflake as part of a
 
 ## Authors
 - Maintainer: Sobakin
+
+New Jenkins updates
